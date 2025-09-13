@@ -1,0 +1,56 @@
+{
+  "zodiac_signs": {
+    "Aries": "March 21 - April 19 | Element: Fire | Traits: Bold, Energetic, Courageous",
+    "Taurus": "April 20 - May 20 | Element: Earth | Traits: Patient, Loyal, Grounded",
+    "Gemini": "May 21 - June 20 | Element: Air | Traits: Curious, Adaptable, Expressive",
+    "Cancer": "June 21 - July 22 | Element: Water | Traits: Nurturing, Sensitive, Protective",
+    "Leo": "July 23 - August 22 | Element: Fire | Traits: Confident, Generous, Dramatic",
+    "Virgo": "August 23 - September 22 | Element: Earth | Traits: Practical, Detail-Oriented, Caring",
+    "Libra": "September 23 - October 22 | Element: Air | Traits: Balanced, Charming, Diplomatic",
+    "Scorpio": "October 23 - November 21 | Element: Water | Traits: Intense, Passionate, Determined",
+    "Sagittarius": "November 22 - December 21 | Element: Fire | Traits: Adventurous, Optimistic, Honest",
+    "Capricorn": "December 22 - January 19 | Element: Earth | Traits: Disciplined, Ambitious, Responsible",
+    "Aquarius": "January 20 - February 18 | Element: Air | Traits: Innovative, Independent, Humanitarian",
+    "Pisces": "February 19 - March 20 | Element: Water | Traits: Compassionate, Creative, Dreamy"
+  },
+  "planets": {
+    "Sun": "Represents your core self, ego, and vitality.",
+    "Moon": "Represents emotions, instincts, and inner world.",
+    "Mercury": "Represents communication, intellect, and thought process.",
+    "Venus": "Represents love, beauty, attraction, and harmony.",
+    "Mars": "Represents energy, action, drive, and passion.",
+    "Jupiter": "Represents growth, expansion, luck, and optimism.",
+    "Saturn": "Represents discipline, responsibility, and structure.",
+    "Uranus": "Represents innovation, rebellion, and sudden change.",
+    "Neptune": "Represents dreams, spirituality, and imagination.",
+    "Pluto": "Represents transformation, power, and rebirth."
+  },
+  "houses": {
+    "1st House": "Self, appearance, beginnings, first impressions.",
+    "2nd House": "Money, possessions, values, self-worth.",
+    "3rd House": "Communication, siblings, short journeys.",
+    "4th House": "Home, family, roots, foundation.",
+    "5th House": "Creativity, romance, children, fun.",
+    "6th House": "Health, work, daily routines, service.",
+    "7th House": "Partnerships, marriage, one-on-one relationships.",
+    "8th House": "Transformation, sexuality, shared resources.",
+    "9th House": "Philosophy, higher learning, long journeys.",
+    "10th House": "Career, reputation, public image.",
+    "11th House": "Friends, groups, social causes, goals.",
+    "12th House": "Spirituality, hidden matters, endings, healing."
+  },
+  "compatibility": {
+    "Aries": ["Leo", "Sagittarius", "Gemini"],
+    "Taurus": ["Virgo", "Capricorn", "Cancer"],
+    "Gemini": ["Libra", "Aquarius", "Aries"],
+    "Cancer": ["Scorpio", "Pisces", "Taurus"],
+    "Leo": ["Aries", "Sagittarius", "Libra"],
+    "Virgo": ["Taurus", "Capricorn", "Scorpio"],
+    "Libra": ["Gemini", "Aquarius", "Leo"],
+    "Scorpio": ["Cancer", "Pisces", "Virgo"],
+    "Sagittarius": ["Aries", "Leo", "Aquarius"],
+    "Capricorn": ["Taurus", "Virgo", "Pisces"],
+    "Aquarius": ["Gemini", "Libra", "Sagittarius"],
+    "Pisces": ["Cancer", "Scorpio", "Capricorn"]
+  }
+}
